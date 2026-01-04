@@ -1,3 +1,8 @@
+<div align="center" >
+  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Dheeraj A G</h1>
 
 <h3 align="center">>A passionate student,developer,learning coordinator and from Kerala in India </h3>
