@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj A G</h1>
-<h3 align="center">A passionate student,developer,learning coordinator and from Gods own country, Kerala</h3>
+<h3 align="center">A passionate student,developer,learning coordinator and from Kerala in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-2607&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-2607" /> </p>
 
