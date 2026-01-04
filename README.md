@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dheeraj A G</h1>
-<h3 align="center">A passionate student,developer,learning coordinator and from Kerala in India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-2607&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-2607" /> </p>
+<h3 align="center">>A passionate student,developer,learning coordinator and from Kerala in India </h3>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 
 
 - 🔭 I’m currently attending on **Bachelors in Technology in Computer Science and Engineering**
 
-- 👯 I’m looking to collaborate on **various projects and freelancers to gain a familiarity towards the industry and workflows**
+- 👯 I’m looking to collaborate on **various open source projects and freelancers to gain a familiarity towards the industry and workflows**
 
 - 🤝 I’m looking for help with **like minded and peers really interested and ambitious to do something out-of-box**
+
+- - 🌱 I’m currently exploring **Full Stack Web Development**
 
 - 📫 How to reach me **dheerajag11222@gmail.com**
 
