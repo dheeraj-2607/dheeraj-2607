@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-2607&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-2607" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj-2607" alt="dheeraj-2607" /></a> </p>
 
 - 🔭 I’m currently attending on **Bachelors in Technology in Computer Science and Engineering**
 
