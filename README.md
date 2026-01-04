@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **like minded and peers really interested and ambitious to do something out-of-box**
 
-- - 🌱 I’m currently exploring **Full Stack Web Development**
+- 🌱 I’m currently exploring **Full Stack Web Development**
 
 - 📫 How to reach me **dheerajag11222@gmail.com**
 
