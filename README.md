@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Dheeraj A G</h1>
 
-<h3 align="center">>A passionate student,developer,learning coordinator and from Kerala in India </h3>
+<h3 align="center">>A passionate student,developer and learning coordinator from Kerala in India </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -22,6 +22,8 @@
 - 🌱 I’m currently exploring **Full Stack Web Development**
 
 - 📫 How to reach me **dheerajag11222@gmail.com**
+
+- 😅 Also a part of TinkerHub Campus community with role as Learning Coordinator
 
 - ⚡ Fun fact **Sometimes good in enjoying literature**
 
